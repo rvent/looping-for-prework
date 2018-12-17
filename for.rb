@@ -2,7 +2,7 @@
 def using_for
 	checklist = 1..10
 	#your code here
-	for count in checklist do
+	for item in checklist do
 		puts "Wingardium Leviosa"
 	end
 end
